@@ -3,7 +3,7 @@ Roman Numeral Calculator
 
 Just include the module in your code.
 
-Its very interesting to play about with.
+* Its very interesting to play about with.
 
 > include Roman
 > 
@@ -13,7 +13,7 @@ Its very interesting to play about with.
 > p r
 > p r.class
 
-Output is.
+* Output is.
 
 > c:\Users\bhood\Projects\Romannumerals>ruby main_mod.rb
 > 0
