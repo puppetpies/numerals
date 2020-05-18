@@ -1,4 +1,4 @@
-# numerals
+# Roman Numerals
 Roman Numeral Calculator
 
 Just include the module in your code.
